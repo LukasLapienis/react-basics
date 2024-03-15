@@ -1,5 +1,4 @@
 import React from "react"
-// import { seaPlaners } from "../Data/seaPlaners"
 import { Vardas } from "./Vardas"
 import { Tipas } from "./Tipas"
 import { Spalva } from "./Spalva"
